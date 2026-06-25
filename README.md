@@ -39,6 +39,7 @@ Strong foundation in **C++ (C++17)** with deep understanding of OOP Design Patte
 I write **production-ready, clean, and well-documented code** that scales. I take end-to-end ownership — from ideation to deployment — delivering complete solutions. I bring an **AI-first mindset**, building with AI as the core engine rather than just an add-on. As a continuous learner, I stay ahead of the curve, constantly exploring emerging technologies. I am a collaborative team player with strong communication skills and a results-driven approach.
 
 I am actively seeking roles where I can:
+
 - Build **AI-powered products** that drive business value
 - Design **scalable backend architectures** for growing platforms
 - Lead **end-to-end development** of innovative applications
@@ -48,33 +49,33 @@ I am actively seeking roles where I can:
 
 ### 📌 Open To
 
-| Role | Focus |
-|------|-------|
-| **AI Backend Engineer** | LLM orchestration, agentic systems, AI infrastructure |
-| **Full Stack Developer** | SaaS platforms, web applications, product development |
-| **Backend Engineer** | APIs, microservices, database systems, scalable architecture |
-| **AI Integration Specialist** | LLM APIs, AI-powered features, automation workflows |
+| Role                          | Focus                                                        |
+| ----------------------------- | ------------------------------------------------------------ |
+| **AI Backend Engineer**       | LLM orchestration, agentic systems, AI infrastructure        |
+| **Full Stack Developer**      | SaaS platforms, web applications, product development        |
+| **Backend Engineer**          | APIs, microservices, database systems, scalable architecture |
+| **AI Integration Specialist** | LLM APIs, AI-powered features, automation workflows          |
 
 ---
 
 ### 🏆 Let's Build Something Extraordinary Together!
 
-| | |
-|---|---|
-| 📧 **Email** | shaiman.qasir.official@gmail.com |
-| 🔗 **GitHub** | github.com/ShaimanQasir |
-| 💼 **LinkedIn** | linkedin.com/in/shaimanqasir |
-
+|                 |                                  |
+| --------------- | -------------------------------- |
+| 📧 **Email**    | shaiman.qasir.official@gmail.com |
+| 🔗 **GitHub**   | github.com/ShaimanQasir          |
+| 💼 **LinkedIn** | linkedin.com/in/shaimanqasir     |
 
 ## 🧠 My Focus Areas
+
 - AI Backend Engineering
 - LLM & Agentic AI Development
 - Scalable Systems Architecture
 - Full Stack Application Development
 - RAG & Knowledge-Augmented Systems
 
-
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/S">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=S&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="S's GitHub Stats" />
@@ -84,7 +85,6 @@ I am actively seeking roles where I can:
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=S&theme=radical&radius=10" alt="S's Activity Graph" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
@@ -123,7 +123,7 @@ I am actively seeking roles where I can:
 
 <h3 align="center">AI &amp; LLM Tools</h3>
 <p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-nobg.svg" alt="Hugging Face" width="40" />&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="40" />&nbsp;&nbsp;
   <img src="https://ollama.com/public/ollama.png" alt="Ollama" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/theme/favicon.png" alt="LangChain" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/brand/favicon.png" alt="LangGraph" width="40" />&nbsp;&nbsp;
@@ -158,6 +158,7 @@ I am actively seeking roles where I can:
 </p>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shaiman-qasir-69bb04337/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -178,4 +179,3 @@ I am actively seeking roles where I can:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
