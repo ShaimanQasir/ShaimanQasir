@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shaiman%20Qasir&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35desc=AI%20Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20LLM%20%26%20Agentic%20AI%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0f172a,1e1b4b,311042&text=Shaiman%20Qasir&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20LLM%20%26%20Agentic%20AI%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=S">
-    <img src="https://komarev.com/ghpvc/?username=S&label=Profile%20views&color=00FFFF&style=flat-square" alt="S's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=ShaimanQasir">
+    <img src="https://komarev.com/ghpvc/?username=ShaimanQasir&label=Profile%20views&color=00FFFF&style=flat-square" alt="ShaimanQasir's profile views" />
   </a>
 </p>
 
@@ -14,23 +14,12 @@ I'm an **AI Backend Engineer** and **Full Stack Developer** who builds productio
 
 ---
 
-### 💡 What I Bring to the Table
+### 💡 Core Expertise
 
-#### 🧠 AI & LLM Engineering
-
-Deep expertise in **LangChain** & **LangGraph** for building agentic workflows, complex LLM orchestration, and stateful multi-turn conversations. Production experience with **Google Gemini API**, **OpenAI GPT**, and **Hugging Face** open-source models. Strong command of **RAG (Retrieval-Augmented Generation)** architectures for building knowledge-augmented AI systems, and advanced prompt engineering strategies for reliable, structured JSON outputs and context-aware responses.
-
-#### ⚙️ Backend Systems Architecture
-
-Proficient in **NestJS**, **Django**, **FastAPI**, and **Node.js** for building high-performance, scalable APIs. Strong command of **PostgreSQL**, **MongoDB**, and **Prisma ORM** with advanced query optimization. Real-time communication using **WebSockets** and **Socket.io** for event-driven architectures. Authentication & authorization with **JWT**, **OAuth**, **Passport.js**, and role-based access control. Experience with **Stripe Connect**, subscription billing, and webhook integrations.
-
-#### 🎯 Full-Stack Development
-
-End-to-end development with **Next.js 15/16** (App Router), **React 19**, and **TypeScript**. Modern UI development with **Tailwind CSS**, **shadcn/ui**, **Radix UI**, and **Framer Motion**. State management using **Zustand**, **React Query (TanStack)**, and **React Context API**. Cloud deployment on **Vercel**, **AWS**, and **Cloudinary** for media optimization.
-
-#### 📊 Systems & Performance
-
-Strong foundation in **C++ (C++17)** with deep understanding of OOP Design Patterns, Data Structures, and Memory Management. Database design with normalized schemas, indexing strategies, and query performance tuning. Experience with **Redis** for caching and message queuing for asynchronous processing. Proficiency with **SFML** for game engine development and systems programming.
+* **🧠 AI & Agentic Engineering:** Building complex, stateful multi-agent workflows with **LangChain** & **LangGraph**; deploying production RAG architectures; fine-tuning LLM prompting for structured JSON.
+* **⚙️ Backend Systems:** Designing scalable APIs and event-driven architectures with **NestJS**, **FastAPI**, **Django**, and **Node.js**; optimizing database schemas and queries in **PostgreSQL** & **MongoDB**.
+* **🎯 Full-Stack Integration:** Architecting modern responsive frontends using **Next.js 15/16** (App Router), **React 19**, and **Tailwind CSS** with robust state management.
+* **📊 Systems & Performance:** Strong foundation in **C++17**, memory management, OOP design patterns, data structures, and caching using **Redis**.
 
 ---
 
@@ -77,13 +66,13 @@ I am actively seeking roles where I can:
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/S">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=S&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="S's GitHub Stats" />
+  <a href="https://github.com/ShaimanQasir">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShaimanQasir&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ShaimanQasir's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=S&theme=radical&hide_border=true&cache_seconds=86400" alt="S's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ShaimanQasir&theme=radical&hide_border=true&cache_seconds=86400" alt="ShaimanQasir's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=S&theme=radical&radius=10" alt="S's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaimanQasir&theme=radical&radius=10" alt="ShaimanQasir's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -125,8 +114,8 @@ I am actively seeking roles where I can:
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="40" />&nbsp;&nbsp;
   <img src="https://ollama.com/public/ollama.png" alt="Ollama" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/theme/favicon.png" alt="LangChain" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/brand/favicon.png" alt="LangGraph" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" width="40" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-00BFFF?style=for-the-badge&logoColor=white" alt="RAG" height="28" />
 
 </p>
@@ -152,8 +141,8 @@ I am actively seeking roles where I can:
 </p>
 
 <p align="center">
-  <a href="https://github.com/S">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=S&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/ShaimanQasir">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShaimanQasir&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
