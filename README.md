@@ -140,11 +140,6 @@ I am actively seeking roles where I can:
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ShaimanQasir">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShaimanQasir&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Connect with Me
 
@@ -162,9 +157,3 @@ I am actively seeking roles where I can:
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
